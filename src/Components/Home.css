@@ -1,0 +1,26 @@
+.herosection{
+    height: 70vh;
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+h3{
+    color: #a52a2a;
+    font-size: 60px;
+}
+p{
+    color: #a52a2a;
+    font-size: 30px;
+}
+button{
+    background-color: #a52a2a;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    color: #ffffff;
+    
+}

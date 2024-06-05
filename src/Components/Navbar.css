@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+
+}
+h4{
+    color:#A91D3A;
+    font-size: 50px;
+}
+.nav-menu{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    align-items: center;
+    cursor: pointer;
+    font-size: 20px;
+    color: #A91D3A;
+}
+.login button{
+    outline: none;
+    border: 1px solid #7a7a7a;
+    border-radius:10px;
+    background-color: #A91D3A;
+    width:100px;
+    height:45px;
+    color: #ffffff;
+}
+.register{
+    outline: none;
+    border: 1px solid #7a7a7a;
+    border-radius:10px;
+    background-color: #A91D3A;
+    width:100px;
+    height:45px;
+    color: #ffffff;
+}
